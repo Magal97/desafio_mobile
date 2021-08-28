@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122503354261",
+    "project_id": "bycodersapp",
+    "storage_bucket": "bycodersapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122503354261:android:bf1b73ef2abff94514489c",
+        "android_client_info": {
+          "package_name": "com.bycodersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122503354261-k5bnksu5ar81p2tupnt79e10ufme3eip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBslpyhhG2MLBq6aPefoH_fXZHXFXyTI8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122503354261-k5bnksu5ar81p2tupnt79e10ufme3eip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

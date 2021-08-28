@@ -1,4 +1,8 @@
 {
   "name": "byCodersApp",
-  "displayName": "byCodersApp"
+  "displayName": "byCodersApp",
+  "android": {
+    "package": "com.bycoders.app",
+    "googleServicesFile": "./google-services.json"
+  }
 }
